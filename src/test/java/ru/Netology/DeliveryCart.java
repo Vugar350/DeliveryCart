@@ -1,3 +1,5 @@
+package ru.Netology;
+
 import com.codeborne.selenide.Condition;
 import com.codeborne.selenide.SelenideElement;
 import org.junit.jupiter.api.BeforeEach;
